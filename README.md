@@ -46,3 +46,6 @@ make run
 ```shell script
 make test
 ```
+import java.util.Scanner;
+public class MyMain {
+    
